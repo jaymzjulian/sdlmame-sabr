@@ -6,12 +6,7 @@ A port of the the SABR3 shader by Joshua Street
 
 To use, add the following tio your mame.ini:
 
-[code]
-
-  gl_glsl                   1
-  gl_glsl_filter            1
-  glsl_shader_mame0       /home/user/.mame/osd/shader/glsl_plain
-  glsl_shader_mame1         /home/user/.mame/sabr/sabr
-
-[/code]
-
+    gl_glsl                   1
+    gl_glsl_filter            1
+    glsl_shader_mame0       /home/user/.mame/osd/shader/glsl_plain
+    glsl_shader_mame1         /home/user/.mame/sabr/sabr
